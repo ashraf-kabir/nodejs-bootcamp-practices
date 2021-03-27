@@ -1,57 +1,57 @@
 [
-    {
-        "id": 1,
-        "productName": "Fresh Avocados",
-        "image": "Sample Image",
-        "from": "Spain",
-        "nutrients": "Vit B, Vit K",
-        "quantity": "4",
-        "price": "6.50",
-        "organic": true,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
-    },
-    {
-        "id": 2,
-        "productName": "Fresh Apples",
-        "image": "Sample Image",
-        "from": "Australia",
-        "nutrients": "Vit A, Vit C",
-        "quantity": "4",
-        "price": "2.00",
-        "organic": true,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
-    },
-    {
-        "id": 3,
-        "productName": "Fresh Mangoes",
-        "image": "Sample Image",
-        "from": "India",
-        "nutrients": "Vit A, Vit D",
-        "quantity": "4",
-        "price": "2.50",
-        "organic": true,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
-    },
-    {
-        "id": 4,
-        "productName": "Fresh Bananas",
-        "image": "Sample Image",
-        "from": "Germany",
-        "nutrients": "Vit A, Vit D",
-        "quantity": "4",
-        "price": "1.50",
-        "organic": true,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
-    },
-    {
-        "id": 5,
-        "productName": "Fresh Grapes",
-        "image": "Sample Image",
-        "from": "England",
-        "nutrients": "Vit A, Vit D",
-        "quantity": "10",
-        "price": "1.50",
-        "organic": true,
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
-    }
+  {
+    "id": 1,
+    "productName": "Fresh Avocados",
+    "image": "Sample Image",
+    "from": "Spain",
+    "nutrients": "Vit B, Vit K",
+    "quantity": "4",
+    "price": "6.50",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
+  },
+  {
+    "id": 2,
+    "productName": "Fresh Apples",
+    "image": "Sample Image",
+    "from": "Australia",
+    "nutrients": "Vit A, Vit C",
+    "quantity": "4",
+    "price": "2.00",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
+  },
+  {
+    "id": 3,
+    "productName": "Fresh Mangoes",
+    "image": "Sample Image",
+    "from": "India",
+    "nutrients": "Vit A, Vit D",
+    "quantity": "4",
+    "price": "2.50",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
+  },
+  {
+    "id": 4,
+    "productName": "Fresh Bananas",
+    "image": "Sample Image",
+    "from": "Germany",
+    "nutrients": "Vit A, Vit D",
+    "quantity": "4",
+    "price": "1.50",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
+  },
+  {
+    "id": 5,
+    "productName": "Fresh Grapes",
+    "image": "Sample Image",
+    "from": "England",
+    "nutrients": "Vit A, Vit D",
+    "quantity": "10",
+    "price": "1.50",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus delectus dicta corporis repellat quod ad distinctio nulla laudantium architecto consectetur ex quisquam et alias, omnis quo asperiores necessitatibus! Illum, assumenda."
+  }
 ]
