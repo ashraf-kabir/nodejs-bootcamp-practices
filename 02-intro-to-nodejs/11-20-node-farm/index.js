@@ -30,7 +30,7 @@ const replaceTemplate = require('./modules/replaceTemplate');
 // });
 // console.log('Will read file!');
 
-// SERVER
+// SERVER->async way (callback)
 const tempOverview = fs.readFileSync(
   `${__dirname}/templates/template-overview.html`,
   'utf-8'
@@ -48,7 +48,7 @@ const data = fs.readFileSync(`${__dirname}/dev-data/data.json`, 'utf-8');
 const dataObj = JSON.parse(data);
 
 const slugs = dataObj.map((el) => slugify(el.productName, { lower: true }));
-console.log(slugs);
+// console.log(slugs);
 
 const server = http.createServer((req, res) => {
   const { query, pathname } = url.parse(req.url, true);
@@ -92,5 +92,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(8000, '127.0.0.1', () => {
-  console.log('Listening to requests on port 8000');
+  console.log('server running on http://127.0.0.1:8000');
 });

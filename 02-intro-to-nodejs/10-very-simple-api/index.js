@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
   const pathName = req.url;
 
   if (pathName === '/' || pathName === '/overview') {
-    res.end('This is the OVERVIEW');
+    res.end('This is the home/OVERVIEW');
   } else if (pathName === '/product') {
     res.end('This is the PRODUCT');
   } else if (pathName === '/api') {
@@ -25,5 +25,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(8000, '127.0.0.1', () => {
-  console.log('listening to request on port 8000');
+  console.log('listening to request on http://127.0.0.1:8000');
 });
